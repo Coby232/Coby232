@@ -10,6 +10,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Coby232/waka-readme@master
+      - uses: Coby232/@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
