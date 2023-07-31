@@ -11,7 +11,11 @@ I started coding at the same age as Bill Gates, so guessing my inspiration will 
 ![](https://github-readme-stats.vercel.app/api?username=Coby232&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coby232&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coby232&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coby232&bg_color=00000000)](https://github.com/Coby232/github-readme-stats)
+
+### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Coby232&theme=radical&no-frame=false&no-bg=false&margin-w=4)
