@@ -1,4 +1,6 @@
 ![Hi There](https://github.com/Coby232/Coby232/blob/main/banner.jpg)
+## ABOUT ME 🧔
+I started coding at the same age as Bill Gates started so guessing my inspiration will not be a hard task. Even though my approach was quiet different from his, as a “script kiddie” at a young age, I learnt that one could express his thoughts through code and computers share the same attributes as humans.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/selorm._m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selorm-kobby-nukpezah-88024519a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18595879) 
