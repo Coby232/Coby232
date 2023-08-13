@@ -1,6 +1,7 @@
 ![Hi There](https://github.com/Coby232/Coby232/blob/main/banner.jpg)
 ## ABOUT ME 🧔🏽‍♂️
 I started coding at the same age as Bill Gates, so guessing my inspiration will not be a hard task. Even though my approach was quite different from his, as a    script kiddie at a young age, I learned that one could express his thoughts through code and that computers share the same attributes as humans.
+<br>
 #everything-takes-time-and-dedication
 <br>
 ### 📧 BUSINESS EMAIL:
